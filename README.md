@@ -25,8 +25,6 @@ In the desktop app, where `/plugin` does not run: click + next to the prompt box
 
 Answer `y` to add the marketplace, then pick the user scope so the band shows in every session started afterwards.
 
-This repository is private: installing needs read access to it on GitHub and a git credential for github.com already on the machine (an SSH key, or `gh auth login` then `gh auth setup-git`).
-
 ## What it reads
 
 - Context fill comes from the session itself.
